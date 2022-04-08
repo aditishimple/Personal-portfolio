@@ -8,11 +8,11 @@ import {
   About,
   Skills,
   // Testimonials,
-  Blog,
+  // Blog,
   Education,
   // Experience,
   Contacts,
-  Projects,
+  // Projects,
   // Services,
   // Achievement,
 } from "../../components";
@@ -27,8 +27,8 @@ function Main() {
       <Skills />
       {/* <Services /> */}
       <Education />
-      <Projects />
-      <Blog />
+      {/* <Projects /> */}
+      {/* <Blog /> */}
       <Contacts />
       <Footer />
       {/* <Experience /> */}

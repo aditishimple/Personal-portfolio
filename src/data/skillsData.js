@@ -7,7 +7,6 @@ export const skillsData = [
   "React",
   "Redux",
   "Node JS",
-  "Tailwind",
   "MaterialUI",
   "Postman",
   "Git",

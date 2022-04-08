@@ -1,7 +1,7 @@
 export const contactsData = {
-  email: "renukaprasad.kb@gmail.com",
-  phone: "+91 6366908385",
-  address: "Anantapur, Andhra Pradesh",
+  email: "aditishimple22@gmail.com",
+  phone: "+91 8482998800",
+  address: "Pune, Maharashtra",
 
   sheetAPI:
     // "https://docs.google.com/spreadsheets/d/e/2PACX-1vRP1_DZcoT6Xvp4QkMDR4Fa1dZ99MerUjhjilqDHHjNJQgflR3F65poj-U-wS1R9AiM_zTzjpohGd6h/pubhtml",
