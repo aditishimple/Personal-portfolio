@@ -1,5 +1,5 @@
 .navbar {
-    height: 6.5rem;
+    height: 5.5rem;
     position: absolute;
     top:0;
     right:0;
@@ -76,7 +76,7 @@
         position: fixed;
         top:0;
         right:0;
-        background-image: linear-gradient(to right, #f03939 35%, #f03939  35%, #f03939  30%);
+        background-image: linear-gradient(to right, rgb(33, 33, 33) 35%, rgb(33, 33, 33)  35%, rgb(33, 33, 33)  30%);
     }
 }
 

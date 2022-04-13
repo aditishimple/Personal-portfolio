@@ -5,7 +5,7 @@ export const headerData = {
   name: "Aditi Shimple",
   title: "Web Developer",
   desciption:
-    "Feet on the ground, eyes at the sky, never stop dreaming, never till you die.",
+    "Any sufficiently advanced technology is indistinguishable from magic.",
   image: profileImg,
   resumePdf: resume,
 };

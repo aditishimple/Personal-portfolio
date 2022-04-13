@@ -8,8 +8,8 @@ export const educationData = [
   },
   {
     id: 2,
-    institution: "ISB&M, College of Engineering, Pune",
-    course: "Bachelor’s of Engineering in Computer Science",
+    institution: "ISB&M College of Engineering, Pune",
+    course: "Bachelor of Engineering in Computer Science",
     startYear: "2018",
     endYear: "2022",
   },

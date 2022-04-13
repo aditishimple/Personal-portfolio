@@ -1,6 +1,6 @@
 import React, { useContext, useState } from "react";
-import { Snackbar, IconButton, SnackbarContent } from "@material-ui/core";
-import CloseIcon from "@material-ui/icons/Close";
+// import { Snackbar, IconButton, SnackbarContent } from "@material-ui/core";
+// import CloseIcon from "@material-ui/icons/Close";
 // import axios from "axios";
 import isEmail from "validator/lib/isEmail";
 import { makeStyles } from "@material-ui/core/styles";
@@ -17,7 +17,7 @@ import {
   FaGitlab,
   FaMediumM,
 } from "react-icons/fa";
-import { AiOutlineSend, AiOutlineCheckCircle } from "react-icons/ai";
+// import { AiOutlineSend, AiOutlineCheckCircle } from "react-icons/ai";
 import { FiPhone, FiAtSign } from "react-icons/fi";
 import { HiOutlineLocationMarker } from "react-icons/hi";
 
@@ -178,9 +178,9 @@ function Contacts() {
       style={{ backgroundColor: theme.secondary }}
     >
       <div className="contacts--container">
-        <h1 style={{ color: theme.primary }}>Let's Connect</h1>
+        <h1 style={{ color: theme.primary }}>Contact Me</h1>
         <div className="contacts-body">
-          <div className="contacts-form">
+          {/* <div className="contacts-form">
             <form onSubmit={handleContactForm}>
               <div className="input-container">
                 <label htmlFor="Name" className={classes.label}>
@@ -276,7 +276,7 @@ function Contacts() {
                 message={errMsg}
               />
             </Snackbar>
-          </div>
+          </div> */}
 
           <div className="contacts-details">
             <a
