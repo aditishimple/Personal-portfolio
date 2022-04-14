@@ -168,8 +168,7 @@ function Landing() {
             <div className="lcr-buttonContainer">
               {headerData.resumePdf && (
                 <a
-                  href={`/resume.pdf`}
-                  download="resume.pdf"
+                  href={`https://drive.google.com/file/d/14Vx6_BBdP5ladlg8ScXhpcL_uPu8yaEq/view?usp=sharing`}
                   target="_blank"
                   rel="noreferrer"
                 >

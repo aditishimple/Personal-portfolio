@@ -8,6 +8,7 @@
 // import eight from "../assets/svg/projects/eight.svg";
 // import udemy from "../assets/png/udemy2.jpeg";
 import pepperfry from '../assets/png/pepperfryHomePage.png'
+import memegenerator from '../assets/png/memegenerator.png'
 
 export const projectsData = [
   {
@@ -26,19 +27,18 @@ export const projectsData = [
     demo: "https://clone-pepperfry.netlify.app/",
     image: pepperfry
   },
-  // {
-  //   id: 2,
-  //   projectName: "Udemy Backend Clone",
-  //   projectDesc: [
-  //     "All round Backend integrated clone mimicing the user flow and behavior of Udemy.com",
-  //     ["Configured server and APIs", "Laid out data schema", "Major Bug fixes"],
-  //   ],
-  //   tags: ["MongoDB", "Node JS", "Express"],
-  //   code: "https://github.com/Sachi4496/Udemy-Clone-Backend",
-  //   demo: "https://aqueous-fortress-78543.herokuapp.com/",
-  //   image:
-  //     "https://user-images.githubusercontent.com/91539305/147107410-e2cf1961-f777-4e33-8a49-586a9a612cb5.gif",
-  // },
+  {
+    id: 2,
+    projectName: "Meme Generator App",
+    projectDesc: [
+      "A meme generator app where you can create your own memes with a text at top and bottom of the image.",
+      ["useState", "useEffect for fetching data", "React forms"],
+    ],
+    tags: ["React"],
+    code: "https://github.com/aditishimple/meme_generator_react.git",
+    demo: "https://meme-generator-app-react.vercel.app/",
+    image: memegenerator
+  },
   // {
   //   id: 3,
   //   projectName: "R + F Clone",
