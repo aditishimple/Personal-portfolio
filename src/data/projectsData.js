@@ -15,16 +15,16 @@ export const projectsData = [
     id: 1,
     projectName: "Pepperfry - Clone",
     projectDesc: [
-      `Frontend focused collaborative project with end to end user experience of Pepperfry.com`,
+      `A full stack collaborative project with end to end user experience of Pepperfry.com`,
       [
         "Product page with sort and filter features",
         "Redux Integration",
-        "Cart and checkout page",
+        "Used ExpressJS, NodeJS, MongoDB for Backend",
       ],
     ],
-    tags: ["React", "Redux", "MaterialUI"],
+    tags: ["React", "Redux", "MaterialUI", "Mongodb"],
     code: "https://github.com/Vikram-amin/pepperfry-clone.git",
-    demo: "https://clone-pepperfry.netlify.app/",
+    demo: "https://pepperfry.onrender.com/",
     image: pepperfry
   },
   {
